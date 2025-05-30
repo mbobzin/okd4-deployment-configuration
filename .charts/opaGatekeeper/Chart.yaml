@@ -1,0 +1,5 @@
+apiVersion: v2
+name: opaGatekeeper
+version: "0.0.1"
+appVersion: "v3.18.3"
+

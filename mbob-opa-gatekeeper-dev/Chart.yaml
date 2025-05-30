@@ -1,0 +1,7 @@
+apiVersion: v2
+name: mbob-opa-gatekeeper-dev
+version: 0.0.1
+dependencies:
+  - name: opaGatekeeper
+    version: "0.0.1"
+    repository: file://../.charts/opaGatekeeper

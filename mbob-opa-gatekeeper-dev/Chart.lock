@@ -1,0 +1,6 @@
+dependencies:
+- name: opaGatekeeper
+  repository: file://../.charts/opaGatekeeper
+  version: 0.0.1
+digest: sha256:79f1b5b2d7857faf2f6040851d46f199e5680e9f5e862849fd96968834edbff4
+generated: "2025-05-30T11:17:00.424792029+02:00"

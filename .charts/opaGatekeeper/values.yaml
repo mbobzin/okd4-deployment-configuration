@@ -1,0 +1,3 @@
+image:
+  repository: "openpolicyagent/gatekeeper"
+  tag: "v3.18.3"
